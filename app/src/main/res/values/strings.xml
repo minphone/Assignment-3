@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment 3</string>
+
+    <string name="title_enter_android_version">Enter Android Version</string>
+    <string name="title_enter_android_code_name">Enter Android Code Name</string>
+    <string name="title_version">Version</string>
+    <string name="title_code_name">Code Name</string>
+</resources>
